@@ -3,12 +3,12 @@
 
 # Installation
 
-  cd <your-project-folder>
+    cd "your-project-folder"
   
-  npm install
+    npm install
 
 # Run
 
-  npm start
+    npm start
 
-The application run on localhost:3000
+The application run on <b>localhost:3000</b>
