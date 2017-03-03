@@ -14,3 +14,24 @@
     "mongoose": "^4.7.1"
   }
 }
+"xo": {
+    "esnext": true,
+    "envs": [
+      "browser",
+      "node"
+    ],
+    "space": 2,
+    "rules": {
+      "max-len": [
+        "error",
+        80,
+        2
+      ]
+    }
+  },
+  "dependencies": {
+    "express": "^4.15.0",
+    "json-api": "^2.15.7",
+    "mongoose": "^4.8.5"
+  }
+}
