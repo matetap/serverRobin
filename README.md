@@ -1,4 +1,4 @@
-# server
+# Client-Server - Connected devices Management
 
 
 # Installation
